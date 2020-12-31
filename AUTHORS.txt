@@ -1,0 +1,7 @@
+XZ81 : Sinclair zx81 emulator for Unix X-Window system
+
+  Russell Marks (russell.marks@ntlworld.com)
+
+PSPZX81 : Porting on PSP
+
+  Ludovic Jacomme (zx81.zx81@gmail.com)
